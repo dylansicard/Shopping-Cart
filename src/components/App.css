@@ -1,0 +1,10 @@
+.prod-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: start;
+}
+
+.prod-card {
+  padding-top: 1rem;
+  background-color: rgb(105, 103, 231);
+}
